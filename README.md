@@ -1,6 +1,6 @@
 # guardian-express-simulacion-client-java[![GitHub Packages](https://img.shields.io/badge/Maven&nbsp;package-Last&nbsp;version-lemon)](https://github.com/orgs/APIHub-CdC/packages?repo_name=guardian-express-simulacion-client-java) 
 
-<p>Esta API Ordena las solicitudes de crédito de acuerdo a la probabilidad de ser un posible fraude. (entorno de simulación).<br/><img src='https://github.com/APIHub-CdC/imagenes-cdc/blob/master/circulo_de_credito-apihub.png' height='37' width='160'/></p><br/>
+<p>Esta API Ordena las solicitudes de crédito de acuerdo a la probabilidad de ser un posible fraude. (entorno de simulación). <br/><br><img src='https://developer.circulodecredito.com.mx/sites/default/files/2024-01/Logo-Swaggers.png' height='70' width='270'/></p><br/>
 
 ## Requisitos
 
