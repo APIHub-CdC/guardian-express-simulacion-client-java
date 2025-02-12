@@ -40,7 +40,7 @@ public class GuardIAnExpressApiTest {
     public void creditreportTest() throws Exception {
 
         RequestDatosGenerales requestDatosGenerales = new RequestDatosGenerales();
-        requestDatosGenerales.setFolioOtorgante("100000001");
+        requestDatosGenerales.setFolioOtorgante(100000001);
         RequestDatosGeneralesPersona requestDatosGeneralesPersona = new RequestDatosGeneralesPersona();
         requestDatosGeneralesPersona.setPrimerNombre("GUILLERMO");
         requestDatosGeneralesPersona.setApellidoPaterno("PRUEBATROAY");

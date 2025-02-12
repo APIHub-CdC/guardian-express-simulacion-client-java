@@ -24,12 +24,12 @@ import java.util.Objects;
 
 public class RequestDatosGenerales {
   @SerializedName("folioOtorgante")
-  private String folioOtorgante = null;
+  private int folioOtorgante ;
 
   @SerializedName("persona")
   private RequestDatosGeneralesPersona persona = null;
 
-  public RequestDatosGenerales folioOtorgante(String folioOtorgante) {
+  public RequestDatosGenerales folioOtorgante(int folioOtorgante) {
     this.folioOtorgante = folioOtorgante;
     return this;
   }
@@ -38,11 +38,11 @@ public class RequestDatosGenerales {
    * Get folioOtorgante
    * @return folioOtorgante
   **/
-  public String getFolioOtorgante() {
+  public int getFolioOtorgante() {
     return folioOtorgante;
   }
 
-  public void setFolioOtorgante(String folioOtorgante) {
+  public void setFolioOtorgante(int folioOtorgante) {
     this.folioOtorgante = folioOtorgante;
   }
 
